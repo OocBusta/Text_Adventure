@@ -7,7 +7,7 @@ namespace Text_Adventure
     class Input
     {
         string userInput = "";
-
+        string testingPush = "";
 
         private void AskNewChar()
         {
