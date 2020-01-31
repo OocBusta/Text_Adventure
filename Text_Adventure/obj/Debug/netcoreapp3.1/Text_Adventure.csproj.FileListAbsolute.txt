@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Text_Adventure\Text_Adventure\bin\Debug\netcoreapp3.1\Text_Adventure.exe
+C:\Users\User\source\repos\Text_Adventure\Text_Adventure\bin\Debug\netcoreapp3.1\Text_Adventure.deps.json
+C:\Users\User\source\repos\Text_Adventure\Text_Adventure\bin\Debug\netcoreapp3.1\Text_Adventure.runtimeconfig.json
+C:\Users\User\source\repos\Text_Adventure\Text_Adventure\bin\Debug\netcoreapp3.1\Text_Adventure.runtimeconfig.dev.json
+C:\Users\User\source\repos\Text_Adventure\Text_Adventure\bin\Debug\netcoreapp3.1\Text_Adventure.dll
+C:\Users\User\source\repos\Text_Adventure\Text_Adventure\bin\Debug\netcoreapp3.1\Text_Adventure.pdb
+C:\Users\User\source\repos\Text_Adventure\Text_Adventure\obj\Debug\netcoreapp3.1\Text_Adventure.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Text_Adventure\Text_Adventure\obj\Debug\netcoreapp3.1\Text_Adventure.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Text_Adventure\Text_Adventure\obj\Debug\netcoreapp3.1\Text_Adventure.AssemblyInfo.cs
+C:\Users\User\source\repos\Text_Adventure\Text_Adventure\obj\Debug\netcoreapp3.1\Text_Adventure.dll
+C:\Users\User\source\repos\Text_Adventure\Text_Adventure\obj\Debug\netcoreapp3.1\Text_Adventure.pdb
